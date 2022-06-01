@@ -1,6 +1,7 @@
-**/Final_Project/ADE20K-main
+**/Final_Project/ADE20Kdataset
 **/datasets
 **/HW8/lightning_logs
 *.zip
 *.pdf
 *.docx
+*.tar
